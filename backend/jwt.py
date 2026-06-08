@@ -1,0 +1,6 @@
+import secrets
+
+secret = secrets.token_hex(32)
+print(secret)
+
+# eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlNDdjNmFiNC01NmFlLTQ3YmMtYjRmZS1kMTU2M2I0ZGEwZGYiLCJleHAiOjE3NzcwOTQ5MzR9.cdzHlJtpVbYay_kE7fhTH1v1BeTpqCS4enjX300iTyI
